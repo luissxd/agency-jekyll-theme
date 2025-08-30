@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: ¡Bienvenido a mi web page con Ruby!
+    text: Mucho gusto
+    button: Sobre mi
     buttonlink: "#services"
 
   services:
