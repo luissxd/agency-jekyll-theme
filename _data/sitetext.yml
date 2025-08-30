@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: ¡Bienvenido a mi web page con Ruby!
-    text: Mucho gusto
+    title: 
+    text: 
     button: Sobre mi
     buttonlink: "#services"
 
@@ -370,7 +370,7 @@ en-ZW: #English (Zimbabwe)
 es: &DEFAULT_ES
   header:
     title: ¡Bienvenido a nuestro Estudio!
-    text: Es un placer conocerle
+    text: 
     button: Ver más
     buttonlink: "#servicios"
 
