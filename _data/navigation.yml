@@ -241,7 +241,7 @@ es: &DEFAULT_ES
       section: servicios
     - title: "Portafolio"
       section: portafolio
-    - title: "Sobre Nosotros"
+    - title: "Nosotros"
       section: nosotros
     - title: "Cronología"
       section: cronologia
