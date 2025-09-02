@@ -14,12 +14,12 @@ en: &DEFAULT_EN
     title: ¡Bienvenido a mi web page con Ruby!
     text: 
     button: Sobre mi
-    buttonlink: "#Servicios"
+    buttonlink: "#Services"
 
-  Servicios:
-    title: "Servicios"
+  Services:
+    title: "Services"
     text: "Lorem ipsum"
-    section: Servicios
+    section: Services
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -372,12 +372,12 @@ es: &DEFAULT_ES
     title: ¡Bienvenido a nuestro Estudio!
     text: 
     button: Ver más
-    buttonlink: "#servicios"
+    buttonlink: "#Services"
 
-  Servicios:
-    title: "Servicios"
+  Services:
+    title: "Services"
     text: "Lorem ipsum"
-    section: servicios
+    section: Services
     list:
       - title: "Comercio Electrónico"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -578,7 +578,7 @@ de: &DEFAULT_DE
     button: Mehr erfahren
     buttonlink: "#Angebote"
 
-  Servicios:
+  Services:
     title: "Leistungen"
     text: "Was wir anbieten."
     section: Leistungen

@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Servicios"
-      section: Servicios
+    - title: "Services"
+      section: Services
     - title: "Portfolio"
       section: portfolio
     - title: "About"
@@ -237,8 +237,8 @@ en-ZW: #English (Zimbabwe)
 # -------
 es: &DEFAULT_ES
   nav:
-    - title: "Servicios"
-      section: servicios
+    - title: "Services"
+      section: Services
     - title: "Portafolio"
       section: portafolio
     - title: "Sobre Nosotros"
