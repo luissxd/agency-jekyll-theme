@@ -14,21 +14,12 @@ en: &DEFAULT_EN
     title: ¡Bienvenido a mi web page con Ruby!
     text: 
     button: Sobre mi
-<<<<<<< HEAD
-    buttonlink: "#Services"
-
-  Services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: Services
-=======
     buttonlink: "#services"
 
   services:
     title: "Services"
     text: "Lorem ipsum"
     section: services
->>>>>>> parent of fee9199 (spanish v1)
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -381,17 +372,12 @@ es: &DEFAULT_ES
     title: ¡Bienvenido a nuestro Estudio!
     text: 
     button: Ver más
-    buttonlink: "#Services"
+    buttonlink: "#servicios"
 
-<<<<<<< HEAD
-  Services:
-    title: "Services"
-=======
   services:
     title: "Servicios"
->>>>>>> parent of fee9199 (spanish v1)
     text: "Lorem ipsum"
-    section: Services
+    section: servicios
     list:
       - title: "Comercio Electrónico"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -592,11 +578,7 @@ de: &DEFAULT_DE
     button: Mehr erfahren
     buttonlink: "#Angebote"
 
-<<<<<<< HEAD
-  Services:
-=======
   services:
->>>>>>> parent of fee9199 (spanish v1)
     title: "Leistungen"
     text: "Was wir anbieten."
     section: Leistungen
