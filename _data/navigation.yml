@@ -12,7 +12,11 @@
 en: &DEFAULT_EN
   nav:
     - title: "Services"
+<<<<<<< HEAD
+      section: Services
+=======
       section: services
+>>>>>>> parent of fee9199 (spanish v1)
     - title: "Portfolio"
       section: portfolio
     - title: "About"
@@ -237,8 +241,8 @@ en-ZW: #English (Zimbabwe)
 # -------
 es: &DEFAULT_ES
   nav:
-    - title: "Servicios"
-      section: servicios
+    - title: "Services"
+      section: Services
     - title: "Portafolio"
       section: portafolio
     - title: "Sobre Nosotros"

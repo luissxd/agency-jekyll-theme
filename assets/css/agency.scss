@@ -35,7 +35,11 @@ $contact-image: "{{ site.data.style.contact-image }}";
 
 // Layout
 @import "layout/masthead.scss";
+<<<<<<< HEAD
+@import "layout/Services.scss";
+=======
 @import "layout/services.scss";
+>>>>>>> parent of fee9199 (spanish v1)
 @import "layout/portfolio.scss";
 @import "layout/timeline.scss";
 @import "layout/team.scss";
