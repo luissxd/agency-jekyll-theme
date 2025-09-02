@@ -12,7 +12,11 @@
 en: &DEFAULT_EN
   nav:
     - title: "Services"
+<<<<<<< HEAD
       section: Services
+=======
+      section: services
+>>>>>>> parent of fee9199 (spanish v1)
     - title: "Portfolio"
       section: portfolio
     - title: "About"
